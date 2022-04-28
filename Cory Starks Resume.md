@@ -24,7 +24,7 @@
 #### Food server • Host
 * Tend to all tables in the restaurant and provide a friendly customer service experience for guests.
 
-### Western Village Bar Department / Jan 2016 - May 2021 / Sparks, NV
+### Western Village Bar Department / Jan 2016 - May 2022 / Sparks, NV
 #### Barback
 * Aid the bartender, maintain a stocked prepared bar which can accomodate better business flow.
 * Provide service as needed to guests at the bar
