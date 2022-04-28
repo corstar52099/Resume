@@ -2,7 +2,7 @@
 ## Sparks NV • coryd.starks@gmail.com • 775-772-3441
 # Software Engineer 
 
-**Technical Skills** RF data Java, JavaFX, RHEL, Windows/powershell, Git, Agile Programming, CI/DC, Maven, C/C++, Python
+**Technical Skills** RF data Java, JavaFX, RHEL, Windows/powershell, Git, Agile Programming, CI/DC, Maven, C/C++, Python </br>
 **Github Link** https://github.com/corstar52099
 
 ## Experience
