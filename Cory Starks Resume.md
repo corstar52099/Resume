@@ -2,19 +2,20 @@
 ## Sparks NV • coryd.starks@gmail.com • 775-772-3441
 # Software Engineer 
 
-**Technical Skills** RF data science & real-time processing with user interaction, Java, JavaFX, RHEL, Windows/powershell, Git, Agile Programming, CI/DC, Maven, C/C++, Python </br>
+**Technical Skills** RF data science & real-time processing with user interaction, Java, JavaFX, GPT API, Apache Kafka, RHEL, Windows/powershell, Git, Agile Programming, CI/DC, Maven, C/C++, Python, Full Stack Deve </br>
 **Github Link** https://github.com/corstar52099
 
 ## Experience
 ### Sierra Nevada Corporation / Dec 2021 - Present / Sparks, NV
-####  Software Engineer Intern
+####  Software Engineer
 * Poduced critical components of an RF data science product.
+    * Java FX design for real time RF data visualization and analysis.
     * High level CDI Java abstraction and dependency injection
+    * Distributed system message bus design with Apache Kafka
     * Maven project management
     * CI/CD Design with automated testing and deployment design
     * Bare metal RHEL optimization for software deployment
     * Practiced and adheared to large scale agile processes
-    * Java FX design for real time RF data visualization and analysis.
 
 ### University of Nevada, Reno / Aug 2019 - May 2021 / Reno, NV
 #### Computer Science tutor
