@@ -2,8 +2,9 @@
 ## Sparks NV • coryd.starks@gmail.com • 775-772-3441
 # Software Engineer 
 
-**Technical Skills** RF data science & real-time processing with user interaction, Java, JavaFX, GPT API, Apache Kafka, RHEL, Windows/powershell, Git, Agile Programming, CI/DC, Maven, C/C++, Python, Full Stack Deve </br>
+**Technical Skills** RF data science & real-time processing with user interaction, Java, JavaFX, GPT API, Apache Kafka, RHEL, Windows/powershell, Git, Agile Programming, CI/DC, Maven, C/C++, Python, Full Stack Web Development, Google Cloud platform/CLI </br>
 **Github Link** https://github.com/corstar52099
+**Published Projects** https://creativesparksnv.com/
 
 ## Experience
 ### Sierra Nevada Corporation / Dec 2021 - Present / Sparks, NV
