@@ -3,7 +3,7 @@
 # Software Engineer 
 
 **Technical Skills** RF data science & real-time processing with user interaction, Java, JavaFX, GPT API, Apache Kafka, RHEL, Windows/powershell, Git, Agile Programming, CI/DC, Maven, C/C++, Python, Full Stack Web Development, Google Cloud platform/CLI </br>
-**Github Link** https://github.com/corstar52099
+**Github Link** https://github.com/corstar52099 </br>
 **Published Projects** https://creativesparksnv.com/
 
 ## Experience
