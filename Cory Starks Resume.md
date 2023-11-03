@@ -8,7 +8,7 @@
 
 ## Experience
 ### Sierra Nevada Corporation / Dec 2021 - Present / Sparks, NV
-####  Software Engineer
+####  Software Engineer 2
 * Poduced critical components of an RF data science product.
     * Java FX design for real time RF data visualization and analysis.
     * High level CDI Java abstraction and dependency injection
