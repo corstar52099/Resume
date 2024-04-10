@@ -2,7 +2,7 @@
 ## Sparks NV • coryd.starks@gmail.com • 775-772-3441
 # Software Engineer 
 
-**Technical Skills** RF data science & real-time processing with user interaction, Java, JavaFX, GPT API, Apache Kafka, RHEL, Windows/powershell, Git, Agile Programming, CI/DC, Maven, C/C++, Python, Full Stack Web Development, Google Cloud Platform/CLI </br>
+**Technical Skills** RF data science & real-time processing with user interaction, Java, Java CDI, JavaFX, GPT API, Apache Kafka, RHEL, Windows/powershell, Git, Agile Programming, CI/DC, Maven, C/C++, Python, Full Stack Web Development, Google Cloud Platform/CLI </br>
 **Github Link** https://github.com/corstar52099 </br>
 **Published Projects** https://creativesparksnv.com/
 
