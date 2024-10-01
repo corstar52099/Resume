@@ -22,11 +22,12 @@ if (-not $latestDocx -or -not $latestPdf) {
 $olderDocxFiles = Get-ChildItem -Filter "*.docx" | Where-Object { $_.FullName -ne $latestDocx.FullName }
 $olderPdfFiles = Get-ChildItem -Filter "*.pdf" | Where-Object { $_.FullName -ne $latestPdf.FullName }
 
-foreach ($file in $olderDocxFiles + $olderPdfFiles) {
-    Write-Host "Deleting old file: $($file.FullName)" -ForegroundColor Yellow
-    Remove-Item $file.FullName -Force
-    git rm $file.FullName  # Remove from Git as well
-}
+Write-Host "Deleting old file: $olderDocxFiles" -ForegroundColor Yellow
+Remove-Item $olderDocxFiles -Force
+git rm $olderDocxFiles  # Remove from Git as well
+Write-Host "Deleting old file: $olderPdfFiles" -ForegroundColor Yellow
+Remove-Item $olderPdfFiles -Force
+git rm $olderPdfFiles  # Remove from Git as well
 
 # Rename the new files to "Cory Starks Resume"
 Rename-Item $latestDocx.FullName $newDocxFile -Force
