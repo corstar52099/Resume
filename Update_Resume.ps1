@@ -21,7 +21,10 @@ if (-not $latestDocx -or -not $latestPdf) {
 # Delete old versions of the files from the repository
 $oldFiles = Get-ChildItem -Filter "Cory Starks Resume.*" | Where-Object { $_.Name -ne $scriptFile }
 foreach ($file in $oldFiles) {
+    # Remove from git
     git rm $file.FullName
+    # Remove from local directory
+    Remove-Item $file.FullName -Force
 }
 
 # Rename the new files to "Cory Starks Resume"
